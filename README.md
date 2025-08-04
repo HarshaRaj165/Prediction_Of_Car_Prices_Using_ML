@@ -39,3 +39,26 @@ A Machine Learning project to predict the selling price of used cars based on ke
 | Dataset Source       | Kaggle - Car Data CSV |
 
 ---
+
+
+## 🧠 Model Workflow
+
+1. Import and preprocess data
+2. Encode categorical variables
+3. Train/test split (90/10)
+4. Train & evaluate:
+   - Linear Regression
+   - Lasso Regression
+5. Visualize predictions using scatter plots
+
+---
+
+## 📈 Evaluation Metric
+
+- **R² Score** (Higher = Better)
+
+Both models are evaluated on:
+- Training Data
+- Testing Data
+
+---
