@@ -26,3 +26,16 @@ A Machine Learning project to predict the selling price of used cars based on ke
 > 🔸 Categorical features are encoded using `.replace()`.
 
 ---
+
+## 🧰 Tools and Technologies Used
+
+| Category         | Tools/Technologies |
+|------------------|-------------------|
+| Programming Language | Python 3 |
+| Data Analysis        | Pandas |
+| Data Visualization   | Matplotlib, Seaborn |
+| Machine Learning     | Scikit-learn (LinearRegression, Lasso, train_test_split, r2_score) |
+| IDE/Environment      | Google Colaboratory (Colab) |
+| Dataset Source       | Kaggle - Car Data CSV |
+
+---
