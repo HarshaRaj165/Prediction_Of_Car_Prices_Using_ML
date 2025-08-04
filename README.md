@@ -62,3 +62,29 @@ Both models are evaluated on:
 - Testing Data
 
 ---
+
+## 📈 Visualizations
+
+The project includes scatter plots of:
+- Actual vs Predicted Selling Prices (for both train and test sets)
+- Helps understand how well the model is performing.
+
+---
+
+## 💡 Key Learnings
+
+- How to handle categorical data via encoding
+- Difference between Linear and Lasso Regression
+- Visualizing performance using scatter plots
+- Evaluating models with R-squared error
+
+---
+
+## ✅ Future Improvements
+
+- Hyperparameter tuning using GridSearchCV or RandomizedSearchCV
+- Deploy the model using Flask or Streamlit
+- Add GUI to make it interactive
+- Try other regression models (Ridge, Decision Tree, XGBoost)
+
+---
