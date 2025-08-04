@@ -88,3 +88,6 @@ The project includes scatter plots of:
 - Try other regression models (Ridge, Decision Tree, XGBoost)
 
 ---
+
+✅ Conclusion
+This project builds and compares Linear and Lasso Regression models to predict used car prices. Both models perform well, with Lasso slightly outperforming in some cases. The workflow highlights data preprocessing, encoding, and evaluation using R² score.
